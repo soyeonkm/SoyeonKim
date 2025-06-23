@@ -36,8 +36,8 @@ I'm a 🎓 Computer Science student at the University of Michigan (Go Blue 💙�
 ---
 
 ## 🎨 Fun Facts About Me
-🪢 I used to compete in competitive jump rope — I can still land a quadruple under (that’s the rope passing under my feet four times in a single jump)!
-🇰🇷 I'm fluent in Korean, so I think in two languages and dream in at least one
+- 🪢 I used to compete in competitive jump rope — I can still land a quadruple under (that’s the rope passing under my feet four times in a single jump)!
+- 🇰🇷 I'm fluent in Korean, so I think in two languages and dream in at least one
 
 ---
 
