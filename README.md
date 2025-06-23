@@ -43,7 +43,7 @@ I'm a 🎓 Computer Science student at the University of Michigan (Go Blue 💙�
 
 ## 📫 Let’s Connect!
 
-💼 [LinkedIn](https://www.linkedin.com/in/soyeonkimm/)  
+💼 [LinkedIn](https://www.linkedin.com/in/soyeonkm/)  
 🖼️ [Photography Portfolio](https://soyeonkimphotography.myportfolio.com/)  
 📸 [Instagram](https://www.instagram.com/soyeon.kim.photography)  
 ✉️ Email: **soyeonkm@umich.edu**
